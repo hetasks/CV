@@ -1,3 +1,3 @@
 # CV
 
-kuvat/omakuva.jpg
+https://github.com/github/{CV}/kuvat/omakuva.jpg 
