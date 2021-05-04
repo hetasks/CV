@@ -1,3 +1,4 @@
 # CV
 
-kuvat/omakuva.jpg
+![kuvat](omakuva.jpg)
+# ![Screenshot](screenshot.png)
